@@ -7,4 +7,4 @@ image:
   feature: trees.jpg
 ---
 
-I am a assistant professor at <a href="https://www.esat.kuleuven.be/cosic/" target="_blank">COSIC, KU Leuven</a>.
+I am an assistant professor at <a href="https://www.esat.kuleuven.be/cosic/" target="_blank">COSIC, KU Leuven</a>.
