@@ -1,23 +1,21 @@
-title:            Jordi Pont-Tuset's site
+title:            Yunwen Liu's site
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //jponttuset.github.io
+url:              //yunwenliu.github.io
 #http://localhost:5000
-#https://jponttuset.github.io
-disqus_shortname: jponttuset
+#https://yunwenliu.github.io
+disqus_shortname: yunwenliu
 
 # Owner/author information
 owner:
-  name:           Jordi Pont-Tuset
-  avatar:         jordi.png
-  bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
-  email:          jponttuset@gmail.com
+  name:           Yunwen Liu
+  avatar:         yunwen.png
+  bio:            I am assistant professor at KU Leuven, Belgium. I worked as a cryptographer and senior researcher at [Cryptape](https://twitter.com/cryptape?lang=en), a blockchain startup based in Singapore. I received my Ph.D in cryptography under the supervision of [Prof. dr. ir. Vincent Rijmen](https://en.wikipedia.org/wiki/Vincent_Rijmen). My main research focuses on security and privacy of blockchains.  
+  email:          firstname.lastname@esat.kuleuven.be
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: jponttuset
-  linkedin: jponttuset
-  google_scholar: VCBBx24AAAAJ
-  google_plus: 113718226018314522413
-  github: jponttuset
+  linkedin: yunwen-liu-a631bb122
+  google_scholar: fbnd6LMAAAAJ
+  github: YunwenL
 # Analytics and webmaster tools stuff goes here
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
@@ -36,7 +34,7 @@ links:
     url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Zurich
+timezone:    Europe/Brussels
 future:      true
 #pygments:    true
 highlighter: rouge
