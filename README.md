@@ -1,11 +1,6 @@
-# Jordi Pont-Tuset's site
+# About this website
 
-This site is based on the **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** theme, a two-column responsive Jekyll theme perfect for powering your GitHub hosted blog.
-
-
-## License
-
-Feel free to adapt this theme to your site without linking back to me or including a disclaimer, although letting me know would be nice. ;) 
+This site is based on the **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** theme, a two-column responsive Jekyll theme perfect for powering your GitHub hosted blog. Forked from Jordi Pont-Tuset's site and inspired by https://github.com/bbuenz/bbuenz.github.io and https://jponttuset.cat/building-an-academic-website/
 
 ## To run it locally
 ```
