@@ -10,7 +10,7 @@ disqus_shortname: yunwenliu
 owner:
   name:           Yunwen Liu
   avatar:         yunwen.png
-  bio:            I am assistant professor at KU Leuven, Belgium. I worked as a cryptographer and senior researcher at [Cryptape](https://twitter.com/cryptape?lang=en), a blockchain startup based in Singapore. I received my Ph.D in cryptography under the supervision of [Prof. dr. ir. Vincent Rijmen](https://en.wikipedia.org/wiki/Vincent_Rijmen). My main research focuses on security and privacy of blockchains.  
+  bio:            I am an assistant professor at KU Leuven, Belgium. I worked as a cryptographer and senior researcher at [Cryptape](https://twitter.com/cryptape?lang=en), a blockchain startup based in Singapore. I received my Ph.D in cryptography under the supervision of [Prof. dr. ir. Vincent Rijmen](https://en.wikipedia.org/wiki/Vincent_Rijmen). My main research focuses on security and privacy of blockchains.  
   email:          firstname.lastname@esat.kuleuven.be
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   linkedin: yunwen-liu-a631bb122
@@ -24,14 +24,12 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Curriculum
-    url: /cv/
   - title: Publications
     url: /publications/
-  - title: Code
-    url: /code/
-  - title: Blog
-    url: /blog/
+  - title: Talks
+    url: /talks/
+  - title: Teach
+    url: /teach/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Brussels
